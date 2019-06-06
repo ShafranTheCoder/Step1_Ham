@@ -10,7 +10,7 @@ body {
 .main-section {
   position: relative;
   height: 1120px;
-  background-image: url("./assets/img/Sectionsbackground/section1.jpg");
+  background-image: url("./img/Sectionsbackground/section1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -301,8 +301,7 @@ body {
 /* INSTALL SECTION */
 .install {
   text-align: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)),
-    url("./assets/img/Sectionsbackground/section2.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), url("./img/Sectionsbackground/section2.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -536,8 +535,7 @@ body {
 .review {
   text-align: center;
   padding: 100px 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("./assets/img/Sectionsbackground/section3.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("./img/Sectionsbackground/section3.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
